@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">74933b2e-4b5b-4d15-9fd5-ddf3a07a229d</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74933b2e-4b5b-4d15-9fd5-ddf3a07a229d</dc:identifier>
+        <dc:title>Mastering Microsoft Power BI (for pre sume)</dc:title>
+        <dc:creator opf:file-as="Brett Powell" opf:role="aut">Brett Powell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-29T06:38:33+00:00</dc:date>
+        <dc:description>This book will show you how to use Power BI effectively to create a variety of visualizations and BI dashboards. Right from gathering data through various data sources, you will learn to perform effective visual analytics. By the end of this book, you will be able to gain unique, hidden insights into your data using Microsoft Power BI.</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
